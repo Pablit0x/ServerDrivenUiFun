@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735614731178",
+    "project_id": "server-driven-ui-fun",
+    "storage_bucket": "server-driven-ui-fun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735614731178:android:556ea67fd7b4f0fa99a1d3",
+        "android_client_info": {
+          "package_name": "org.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsXA18_h2RSrE4J1ppN1j8h34ZhSgfwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
